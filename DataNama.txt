@@ -3,7 +3,7 @@ agus sugiono
 endra ernawati	
 murti	
 mohammad asan sidiq	
-abd. amin	
+abd amin	
 siponiyem	
 suryanto	
 semi	
@@ -24,7 +24,7 @@ meseran
 suwarni	
 sukirno	
 jersi akbar	
-titik nur'aini	
+titik nur aini	
 agus widodo	
 siti mahmurotun	
 mutohar	
@@ -84,9 +84,9 @@ basuki rahmat
 zidna izza rahmat	
 binti sholihah	
 lina lailatul qodriyah	
-m. abdul kanan	
+m abdul kanan	
 afifatur rofiqoh	
-m. aladzin fahrozi	
+m aladzin fahrozi	
 danica putri budiarti	
 rifka tumiyem	
 eva putri novitasari	
@@ -97,7 +97,7 @@ diana ardiani
 rima dwi handayani	
 eko rudiono	
 nina puspita dewi	
-m.fernando tores	
+m fernando tores	
 nuryatim afandi	
 dwi nuryatin	
 yatimah	
@@ -110,11 +110,11 @@ adiyah
 saenah	
 natalia dessy ariyanti	
 aurea griselda octafrisyanti	
-andreas gian purwoko, se	
+andreas gian purwoko	
 qiffa nidaul umana	
 fitria ulfa faiqotun nafiah	
 ali maskur	
-binti qona'atul m.	
+binti qona atul m	
 chandra adi pratama	
 asnawi	
 suri	
@@ -158,7 +158,7 @@ imam badri
 mujiati	
 jumani andriyanto	
 sunarti	
-imam safi'i	
+imam safii	
 aris styawan	
 is candra adi setyawan	
 sriwiyatun	
@@ -190,7 +190,7 @@ ali mahmud
 alfiyah	
 dangen	
 himatul faiqoh	
-moh. romli	
+moh romli	
 puji astutik	
 suwandi	
 dwi kristanti	
@@ -207,7 +207,7 @@ devan bagus kusuma
 mohamad galih budi kusuma	
 dulmijan	
 alvera ernawati	
-hajar ma'mur minhajudin	
+hajar mamur minhajudin	
 roisatul ajizah	
 muntiatun	
 gretisya astia nanta sari	
@@ -250,9 +250,9 @@ gatot
 eksel dewi agustin	
 siswinayah	
 mistari	
-veronika ika agustin r.	
+veronika ika agustin r	
 shokibur rokhman	
-cheeryn claris f. p.	
+cheeryn claris f p	
 lilik mariyami	
 fellys yulianto	
 dio leo nardo	
@@ -286,7 +286,7 @@ abil aulia permata ayu nara diswa
 hartatik sulistyowati	
 hadi sunarto	
 muhammad khoirul anwar	
-moh. khomari	
+moh khomari	
 yuangga dwi cahyo	
 panisi	
 patria indra subrata	
@@ -312,8 +312,8 @@ sukir
 rifilialaiyin pujawati	
 suliswati	
 khoiri	
-moh. ulil ilmi	
-moh. munir	
+moh ulil ilmi	
+moh munir	
 yoan cahya marin	
 sri burini	
 madiyo sungkowo	
@@ -325,7 +325,7 @@ sumarno
 andy danang p	
 sumartini	
 sukirno	
-eka novel k.	
+eka novel k	
 dedik s	
 sayati	
 muri	
@@ -334,11 +334,11 @@ danar eko pradana
 jumari	
 tuminah	
 rifki angga kurniawan	
-ah. kayis indra al	
-ah. hadiq mustofa	
+ah kayis indra al	
+ah hadiq mustofa	
 istianah	
-m. aminudin	
-nila qorutul a'yun	
+m aminudin	
+nila qorutul ayun	
 siti nur imamah	
 siti arofah	
 ahmad zaini	
@@ -347,10 +347,10 @@ fathur rohman
 mistam	
 nadifatun	
 zaenap	
-m. firman r	
+m firman r	
 nanik kusniatin	
-m. imron	
-moh. aris	
+m imron	
+moh aris	
 samijah	
 musrianah	
 sakur	
@@ -369,7 +369,7 @@ sodik
 slamet lestari	
 saiful rohmad	
 asroni	
-m. raditiya	
+m raditiya	
 yuyun wijayanti	
 budiono	
 syamsudin	
@@ -381,7 +381,7 @@ kardino f
 gebril inando d	
 tri yuyun	
 islamiyah	
-anwar h.	
+anwar h	
 siti qomariyah	
 sukardi	
 kholida ariyani	
@@ -448,7 +448,7 @@ joko syafaat
 marta saputra	
 tuminem	
 boiman	
-rivai ma'aruf	
+rivai maaruf	
 lilik purwantini	
 indi rolita sari	
 susiyati	
@@ -462,13 +462,13 @@ devi purnama sari
 jumiati	
 paiman samson	
 kartika deni	
-moh. ali mustofa	
+moh ali mustofa	
 kasinah	
 bonari	
 lisa	
 putri siswika fatmasari	
 muntamah	
-dava i putu yoga p.	
+dava i putu yoga p	
 dewa	
 santi	
 bonadi	
@@ -477,10 +477,10 @@ tegen lestari
 surateman	
 tutut sri handayani	
 wajingun	
-sinta fa'itlatul khasanah	
+sinta faitlatul khasanah	
 eny rosita	
 wagianto	
-tatik eka dwi s.	
+tatik eka dwi s	
 agus wahyudianto	
 imam samsudin	
 marsini	
@@ -502,7 +502,7 @@ wariyem
 wahyu widiya wati	
 ardianto	
 supini	
-a. sutikno	
+a sutikno	
 supirah	
 sunawi	
 al layilika rosa ws	
@@ -547,7 +547,7 @@ zahwan farizga arif
 rizki ardinata	
 reka dian arif	
 susilowati	
-ma'arif	
+maarif	
 umiyati	
 eko susan romandona	
 tegar imansyah	
@@ -564,7 +564,7 @@ ladies febby ayu ningrum
 marsiam	
 marsono	
 fani adma niswati	
-m-. rokim	
+m- rokim	
 siti aminah	
 sutik	
 sunyoto	
@@ -576,7 +576,7 @@ siyem
 meseno	
 dendik andrean	
 siswanto	
-ma'dan fauzi umam	
+madan fauzi umam	
 siti lailiya	
 yatinah	
 ayukha dea lathifah	
@@ -624,7 +624,7 @@ radityo dwi aman dhika
 dian ayu pitaloka	
 hidayati	
 hendrik hadiyanto	
-m. syarif hidayatulloh	
+m syarif hidayatulloh	
 siti khafsah	
 musini	
 sokiman	
@@ -632,7 +632,7 @@ sholeh fahrur roji
 nabhan fajru lana	
 salsabila jahiza zahwa	
 hamimah	
-ali mahsun, h. ba.	
+ali mahsun h ba	
 eni sugiarti	
 saminah	
 pariyem	
@@ -652,7 +652,7 @@ sarbini
 marsiti	
 slamet	
 bayu surya saputra	
-ni'matul qomariyah	
+nimatul qomariyah	
 eko budi utomo	
 dwi nila lutfia	
 agus mustova	
@@ -676,8 +676,8 @@ suhartini
 sulisianto	
 semi	
 arifatul masruroh	
-moh. faisal	
-moch. fachry	
+moh faisal	
+moch fachry	
 sutikno	
 sriatun	
 ulvia fifiana	
@@ -687,10 +687,10 @@ giman
 sumiyem	
 paiman	
 bonisri listyo w	
-m. taufik h	
+m taufik h	
 supini	
 sutrisno	
-moh. kaini	
+moh kaini	
 eka susilowati	
 supiyah	
 nobijaya saputra	
@@ -728,7 +728,7 @@ siti masrokah
 muchamad mujianto	
 aluin arela	
 amelia distara	
-m. andri yulianto	
+m andri yulianto	
 siti saniyah	
 miswandi	
 edi suyanto	
@@ -746,7 +746,7 @@ toni hidayat
 srianah	
 tumiran	
 tirta anja inka	
-i'in krisnasanti	
+iin krisnasanti	
 joko nurhadi	
 iskhaq	
 rodhiyah	
@@ -758,7 +758,7 @@ dwi fitriani
 khoirul anam	
 ahmad mirza afandy	
 uswatun khasanah	
-m. yasin afandy	
+m yasin afandy	
 najma amania afandy	
 lilik windarni	
 suhardi	
@@ -778,7 +778,7 @@ kliyem
 andreas trisna hartanto	
 sagimin	
 sri utami	
-ft. edy widodo	
+ft edy widodo	
 sofinatun yuliana	
 khoiri	
 cici wulandari	
@@ -808,8 +808,8 @@ feri wicaksono
 siti mudawamah	
 sri windari	
 didik hariyanto	
-m. ardiansyah pramudio	
-m. argeswara bawafi	
+m ardiansyah pramudio	
+m argeswara bawafi	
 shinta nuria azkya	
 istiani	
 mariyono	
@@ -824,7 +824,7 @@ dina sulasmi
 slamet widodo	
 roisa ikfi khoirina	
 siti musripah	
-m. kholil	
+m kholil	
 yeyen puji andika	
 puji astutik	
 yenono	
@@ -870,7 +870,7 @@ angga pratama
 poniyati	
 supriadi	
 bandi winoto	
-m. iit catur wahyuni	
+m iit catur wahyuni	
 sumarmi	
 murdiyo	
 euis kusmiati	
@@ -935,7 +935,7 @@ saji santoso
 nur diyah	
 andri	
 mujianto	
-m. vicky prasetyo	
+m vicky prasetyo	
 cesya desi anggraini	
 putri yuli indra gandi	
 sriani	
@@ -970,7 +970,7 @@ patimah
 wasiah	
 panidi	
 dewi suprobo	
-m. melfin adistira	
+m melfin adistira	
 siti mundari	
 sunari	
 aldi maulana	
@@ -990,7 +990,7 @@ anang suwoko
 jiteng	
 heru efendi	
 sumiati	
-m. nur s	
+m nur s	
 juar tatik	
 samsirin	
 latief suheri	
@@ -1058,7 +1058,7 @@ erna wati
 miskun	
 wiwik andriani	
 resmiati	
-moh. ansori	
+moh ansori	
 selly yuliarti kristian	
 abigael budiarti	
 kristiantoro	
@@ -1084,7 +1084,7 @@ eko sujarwo
 istiyar	
 siti rahayu	
 devy rahayu	
-m. irvan rosad	
+m irvan rosad	
 mesinem	
 sugeng purnomo	
 indah widartik	
@@ -1122,7 +1122,7 @@ sarmuji
 sugiadi hermanto	
 dina rosita	
 umi farida	
-samsul mu'arif	
+samsul muarif	
 muhamad sahrul ajis	
 ilham faza khakiki	
 umi zahroh	
@@ -1131,20 +1131,20 @@ budi susanto
 sukatemi	
 indri puspita sari	
 darwati arum	
-m. micky febriansyah	
-anis nur sa'adah	
-musa asy'ari	
+m micky febriansyah	
+anis nur saadah	
+musa asyari	
 enggar diki pamuja	
 ika kurniawati	
 herianto	
 aga siswanto	
-pi'in	
-imam syafi'i	
+piin	
+imam syafii	
 maya hilma diyana	
 siti nur jannah	
 faza firania indrastata	
 lailul muyasaroh	
-ahmad rifa'i	
+ahmad rifai	
 sumiatun	
 isnawati	
 nadiva salsabilla	
@@ -1156,7 +1156,7 @@ mudi prawati
 samuri	
 arina azzatun nabila	
 nurul hidayah	
-ali ma'ruf	
+ali maruf	
 nazjma jamil	
 siti eklyanlia	
 husnul yuli alifah	
@@ -1178,15 +1178,15 @@ sugasar
 sovi susanti	
 siti alfiyah	
 syaiful anwar	
-moh. ali ghufron	
+moh ali ghufron	
 wagirah	
 ponimin	
 ana aulia	
 wahyudi	
 zahra olivia	
 surajiyem	
-heru moch. efendi	
-m.jeven rahmadani	
+heru moch efendi	
+mjeven rahmadani	
 kasmini	
 sariono	
 galuh retnosari	
@@ -1274,10 +1274,10 @@ toni efendi
 irvan wahyudi	
 suminah	
 samiran	
-m. zidan hasan toriq kamal	
+m zidan hasan toriq kamal	
 anita dwi jayanti	
 abdul wahid	
-moh. fikri bahrul ilmi	
+moh fikri bahrul ilmi	
 nur hidayah	
 moh saini	
 rizqi fajar yulianto	
@@ -1322,10 +1322,10 @@ rusmini
 bintoro	
 hirega amar khans fahlefi	
 zaskya pijar maharani	
-azimatun ni'mah ef, spdi.	
-moch. yusron	
+azimatun nimah ef spdi	
+moch yusron	
 nuri vina mawadah	
-ma'rifatul kholifah	
+marifatul kholifah	
 ali mahsun	
 songatun	
 suratman	
@@ -1342,7 +1342,7 @@ nezad gibrin nasoval
 dwi winarsih	
 nur shodiq	
 susilowati	
-sudarman, as	
+sudarman as	
 halisah amelia	
 jubaedah	
 sunarto	
@@ -1373,7 +1373,7 @@ ririn harianik
 wahyono	
 sundusiyah selomita	
 firda rahmawati	
-mansuri h.	
+mansuri h	
 masruroh	
 biyanto	
 purwati	
@@ -1407,7 +1407,7 @@ rio verdy firmansyah
 rudiono	
 lilik astutik	
 sulis wati	
-a.khoiri.	
+akhoiri	
 rivilia layin pujawati	
 rizal eka saputra	
 enik sri lestari	
@@ -1425,7 +1425,7 @@ andika priyanto
 yatik	
 mohammad nor	
 siti arofah	
-mohamad ro'isul wahid	
+mohamad roisul wahid	
 sardini	
 siti sunarti	
 ahmad khoirudin safii	
@@ -1440,7 +1440,7 @@ istianah
 boimin	
 eka setyawati	
 suwari	
-sa'bandi	
+sabandi	
 siti safangatun	
 sadini	
 sutinah	
@@ -1485,8 +1485,8 @@ indah lukmawati
 sucipto	
 tya pramesti wulandari	
 putri aufa lestari	
-tiwi m. indarti	
-susiyati h. yasin	
+tiwi m indarti	
+susiyati h yasin	
 siti masturoh	
 junaidi	
 srinatun	
@@ -1564,10 +1564,10 @@ suroso lukman hadi
 dimas alwi mubarok	
 susiani	
 muslihatun	
-zidna a'la darojah	
+zidna ala darojah	
 ahmada mulki zakia	
 umi jamanah	
-andy hasyim sya'roni	
+andy hasyim syaroni	
 ariani	
 sandimun	
 sepri ayu evita dewi	
@@ -1617,7 +1617,7 @@ poniah
 samto	
 didik wahyu diono	
 nurhidayati	
-m. usman	
+m usman	
 rafy rafael adam firdaus	
 dewi maslahah	
 sunarji	
@@ -1648,7 +1648,7 @@ andika dava saputra
 eka supiyaningsih	
 sugianto	
 umiyarti	
-budiyono, sh.	
+budiyono sh	
 repal	
 vicky ardino	
 krismanto	
@@ -1672,8 +1672,8 @@ guntur
 bonasri	
 zainal arifin	
 jamiatul pathonah	
-m. ilham	
-ulviatuni'mah	
+m ilham	
+ulviatunimah	
 pri hariyanto	
 dimas ardiansyah	
 dewi masfufah	
@@ -1682,19 +1682,19 @@ riska ulfa hidayah
 suharto	
 muryanti	
 trina afidatur rohmah	
-m. edris	
+m edris	
 rumiyah	
 ima rahmawati	
 pujian lestari	
 imam fauji	
 saniya	
 sulastri	
-m. sholeh	
+m sholeh	
 devi ratna sari	
 andika sumarno	
 alvin ahmad maulana	
 sriwedari	
-m. mashuri	
+m mashuri	
 emi sugiyati	
 mohamad nurudin	
 adelia vindi anjani	
@@ -1707,7 +1707,7 @@ sarmidi
 stivani karlina defvi	
 sugiati	
 sukarno	
-siti zubaidah hj.	
+siti zubaidah hj	
 maria kenya pirenaning pangestu	
 yustina cicik isworini	
 suryadi	
@@ -1715,13 +1715,13 @@ luna khoirunisa
 susmiati	
 surni	
 darmaji	
-moh. arif adi susanto	
+moh arif adi susanto	
 sumiati	
 wahyu tri raharjo	
 indah puji rahayu	
 tupan	
 katini	
-m. yoga yudatama	
+m yoga yudatama	
 heni khoiriyah	
 sunarti	
 sri wahyuni	
@@ -1766,9 +1766,9 @@ bagus wijaya
 andri prananta	
 biyem	
 upron naka	
-zahwa maulida as'ad	
+zahwa maulida asad	
 nur latifah	
-as'ad rofi'udin, a.md.	
+asad rofiudin amd	
 suryanto	
 mahmudi	
 hartatik	
@@ -1790,7 +1790,7 @@ alfia yuli kurniasari
 fuad musyadad	
 jaenuri	
 wagimin	
-moh. azkal wildan syah	
+moh azkal wildan syah	
 sriani	
 firman hidayat	
 sutrin winarti	
@@ -1809,7 +1809,7 @@ mujayanti
 imanudin	
 sulin	
 panut	
-ali mustofa h.	
+ali mustofa h	
 dio prasetyo	
 andrian setyawan	
 kasini	
@@ -1823,7 +1823,7 @@ poniran
 sintya k	
 komsatun	
 harsoni	
-scholastica valentina. v	
+scholastica valentina v	
 lussi	
 edi susilo	
 budiono	
@@ -1864,8 +1864,8 @@ yanik sutanti
 nur yatun	
 suryanto ade arga	
 ifa nurosidah	
-ahmad soleh, h	
-nur janah, hj	
+ahmad soleh h	
+nur janah hj	
 supiyono	
 mesati	
 sri utami	
@@ -1881,17 +1881,17 @@ sriatin
 tuminah	
 mustamar	
 muhamad febrian mashudi	
-salsabila nafi' setiawan putri	
+salsabila nafi setiawan putri	
 neneng umi hanik	
 anang setiawan	
 yohanes dedi irawan	
 sriami	
 irma fitriani	
-moh. sultoni	
+moh sultoni	
 ahmad yoga yudistira	
 angel victoria mustova	
 yussanti	
-moh. ali mustova	
+moh ali mustova	
 pariono	
 suparti	
 munasri	
@@ -1923,7 +1923,7 @@ sutartik
 meri	
 aisyah	
 mahrus aly	
-wardah asna 'afiyah	
+wardah asna afiyah	
 kahmas syarif hidayatulloh	
 khulwa maulida zahro	
 afiffaturofiqoh	
@@ -1977,7 +1977,7 @@ enggar pratama
 sami	
 supriyadi	
 dessy intan rachmawati	
-m. taufik romadhon	
+m taufik romadhon	
 mujiati	
 pairin rianto	
 nanda nur halimah	
@@ -2013,7 +2013,7 @@ abdul jayin s
 wibi ratu auliyaul zain	
 fauzul zahro naima zain	
 syari fatul hasan	
-moh. agus riadi	
+moh agus riadi	
 sukirah	
 tukimin	
 waginem	
@@ -2030,13 +2030,13 @@ dini rahma al hakim
 siska rahayu ulfa alfia	
 fika dwi putri indah lestari	
 fiqi hendra sanjaya	
-sindhu loka dharma . w	
+sindhu loka dharma  w	
 winda setyawati	
 sutrisno	
 beni trisno handoko	
 wiwin winarsih	
 wiwin suhaili	
-ruba'i	
+rubai	
 nikmatul khasanah	
 nanik	
 hidayah	
@@ -2053,18 +2053,18 @@ musinah
 siti romelah	
 imam muarif	
 yuliana rosa indah	
-moh. davet arifin	
+moh davet arifin	
 elvi cahyani putriningsih	
 hartini	
 tumaji	
 istik rahayu	
 suryanto	
-firda ma'rifatut toyibah	
+firda marifatut toyibah	
 sri eko yuliana	
 najamudin	
 gunawan hari santoso	
 kurniawan hadi utama	
-pinanggih s. nugroho	
+pinanggih s nugroho	
 payem	
 misdi	
 anis syafira romdhoni	
@@ -2073,7 +2073,7 @@ imam ismoro
 yuli astutik	
 marsatun	
 faisol yuli kodar faizin	
-moh. ridwan	
+moh ridwan	
 sudarto	
 novia luluk fitriani	
 anis suparmi	
@@ -2088,9 +2088,9 @@ suprihatin
 katini	
 muklasin	
 ismiatun	
-moh. kurnen	
+moh kurnen	
 maefatul nur asrifa kurnia putri	
-moh. andri setiawan	
+moh andri setiawan	
 tukidi	
 eko yudi astutik	
 yoga prastyo mahardika	
@@ -2098,7 +2098,7 @@ kridayani
 kafrisl aufi	
 sriani	
 kariyono	
-m. rosid marjuki	
+m rosid marjuki	
 siti komsilaten	
 sunaryo	
 roy adi saputra	
@@ -2118,7 +2118,7 @@ paiman
 abdul rokim	
 arifut firmansyah	
 siti mahmudah	
-moh.dandy	
+mohdandy	
 abdul ghofur	
 muhammad fajarudin abdulloh	
 siti musyarofah	
@@ -2134,8 +2134,8 @@ arip eko hartono
 demi	
 siyem	
 parti	
-m. abdul rohim	
-munti'ah	
+m abdul rohim	
+muntiah	
 sabtono	
 erni yuli astutik	
 sunyoto	
@@ -2185,7 +2185,7 @@ sarbini
 imasri wahyuni	
 mariati	
 siti kholifah	
-m. hamsyah syamsudin	
+m hamsyah syamsudin	
 imam khoiri	
 mariyati	
 anna octaviana	
@@ -2197,13 +2197,13 @@ ali mahsun
 alvindra ferdiansyah	
 ahmad khoiri	
 leginem	
-aisyah hj.	
-a. zainuri h.	
+aisyah hj	
+a zainuri h	
 lusiani	
 regina devita safitri	
 shoiri	
 heri purnomo	
-ahmad shofi'i	
+ahmad shofii	
 saropah	
 abu amin	
 tentrem	
@@ -2232,9 +2232,9 @@ rafiah
 ahmad zaini	
 poryani	
 muchid	
-m. burham mustakim	
-m. bahrur rohim	
-a. ridwan	
+m burham mustakim	
+m bahrur rohim	
+a ridwan	
 sri rahayu	
 marsuni	
 suselo	
@@ -2246,8 +2246,8 @@ boiman
 rukayah	
 muhdhori	
 siti zumaroh	
-moh. rizki hidayatullah	
-moh.junaidi iskandar	
+moh rizki hidayatullah	
+mohjunaidi iskandar	
 siti wahyudah	
 wiwik handayani	
 mey gladis zunia	
@@ -2265,7 +2265,7 @@ tumini
 alika dian lasari	
 tania dwi lestari	
 suliyah	
-moh. saeroji	
+moh saeroji	
 suraji	
 lilik	
 miratun	
@@ -2357,7 +2357,7 @@ surami widhiani
 jaswadi	
 iswatini	
 diky shandy ardiansyah	
-m. feby reynaldi	
+m feby reynaldi	
 janah	
 yati	
 agus suryanto	
@@ -2398,7 +2398,7 @@ nurul widiawati
 titis dwi parwati	
 ribut	
 paimun	
-ma'in	
+main	
 robinatun	
 hari prastiyo	
 marji	
@@ -2484,8 +2484,8 @@ supriyanto
 khansa naila aprida	
 zahra laudia shofa	
 sholikhatun	
-robi'ah samiyah	
-m. sholeh	
+robiah samiyah	
+m sholeh	
 siti munfatikhah	
 kasiyati	
 supardi	
@@ -2496,7 +2496,7 @@ sriwinarmi
 mesatun	
 tumiran	
 vazira noor ramadhani waloyo	
-faridatusa'idah	
+faridatusaidah	
 tri waloyo hadi	
 rizal firmansah	
 novita ika ayu lestari	
@@ -2529,7 +2529,7 @@ abdul karim
 hilda mayasari	
 siti sofiyah	
 thohari	
-shukaini drs.	
+shukaini drs	
 kabul	
 tuminah	
 uswatun hasanah	
@@ -2600,7 +2600,7 @@ tukiran
 paino	
 srimonah	
 putri lestari	
-katiyem.	
+katiyem	
 siti rodiyah	
 ponirin	
 agus riandi	
@@ -2618,10 +2618,10 @@ agus irwanto
 nurohman	
 mohamad mahruzar usfi	
 mujiati	
-srikaton hj.	
+srikaton hj	
 suwito	
 seminarwati	
-bashori alwi.	
+bashori alwi	
 ahmad mirza haqiqi	
 umi sayidah	
 fathokah	
@@ -2693,10 +2693,10 @@ ilham sampurno sujoko
 muhammad firdaus alfarizi	
 riduwan	
 dasirah	
-m. aditya damara	
-m. rizal hidayat	
+m aditya damara	
+m rizal hidayat	
 eni hamidah	
-saifiya aufal m.	
+saifiya aufal m	
 munasir	
 juwariyah	
 siti munawaroh	
@@ -2711,9 +2711,9 @@ derby afgansah rezza
 aninda faradina	
 mukadam	
 siti mariyam	
-moh. zainuddin assyifa'	
+moh zainuddin assyifa	
 erni luluk wijayanti	
-imam syafi'i	
+imam syafii	
 sugiono	
 yuliatin	
 sarip	
@@ -2746,12 +2746,12 @@ parlan
 laura ayu dia agustin	
 ari tri wahyuni	
 jumari	
-renzy m. amadira	
+renzy m amadira	
 umi kulsum	
 ismail	
 rohman setyawan	
 pipit putriani	
-m. riyan alang hadi	
+m riyan alang hadi	
 ponijem	
 dian antoni	
 angelina usnita conyrelya	
@@ -2767,13 +2767,13 @@ supriyadi
 endang susanti	
 darmi	
 tugianto	
-nasipatun, s.ag.	
-shukaini, drs.	
+nasipatun sag	
+shukaini drs	
 fany ahmad gholbansyah	
 sulastri	
 achmat rohani	
 tukinem	
-moh. ali	
+moh ali	
 boniyem	
 adi suprayitno	
 andre bagus ahmad fadli	
@@ -2789,7 +2789,7 @@ sumarno
 iwan nurhuda	
 imsiyati	
 dwi candra setiyawan	
-m. faisal indra bathara	
+m faisal indra bathara	
 devi suryaningtyas	
 budiyono	
 suwarti	
@@ -2812,7 +2812,7 @@ hestin savira
 m mahfud sumari	
 tamiah	
 latifah imama	
-m. hilaludin	
+m hilaludin	
 siti aisyah	
 nurilah duri hilaiyah	
 sukijo	
@@ -2835,7 +2835,7 @@ yuliatin
 slamet	
 monar	
 poninten	
-i'is supiani lestari	
+iis supiani lestari	
 marsono	
 yadi	
 kayah	
@@ -2881,7 +2881,7 @@ vicka happy mayora
 senan	
 ngainem	
 gundono	
-moh. kaini	
+moh kaini	
 siti mardiyah	
 dardiri	
 kasirah	
@@ -2889,14 +2889,14 @@ rendi rismawan
 mohamad yas munir	
 iswati	
 misbahul huda	
-moh. arif hidayat	
+moh arif hidayat	
 ponijan	
-moh. salman alfarisyi	
+moh salman alfarisyi	
 poniyem	
 pangat	
 imam kanafi	
 ilham widicaksono	
-lana.muhammad.hanafi	
+lanamuhammadhanafi	
 suparti ari yanti	
 indah mulyani	
 ahmad irwan yuriansyah	
@@ -3007,16 +3007,16 @@ mesiyem
 jani	
 sihani	
 yogi ardiarto	
-m. nurhasyim	
+m nurhasyim	
 muhammad najib asfa	
 naila rahmah maulidiyah	
 nur janah	
-bashori, m.ag.	
-m. mahfudz luthfi hasan	
+bashori mag	
+m mahfudz luthfi hasan	
 sukari	
 saniyem	
 kasianto	
-mi.snan	
+misnan	
 yanto	
 sriati	
 aminah	
@@ -3034,7 +3034,7 @@ usman
 supinah	
 kusnul hidayah	
 shahadatul munawaroh	
-a.henrikus murdiyo	
+ahenrikus murdiyo	
 birnadeta sumarni	
 iid catur wahyuni	
 patun	
@@ -3060,7 +3060,7 @@ siti marwiyah
 yoga agis pradana	
 herry hermansyah	
 waginem	
-m.azkal wildansyah	
+mazkal wildansyah	
 titin suhartini	
 kusoyin	
 faiz rizki kustiyansyah	
@@ -3073,7 +3073,7 @@ ilmi sholikatin
 nurul islamiyah	
 siti arifah	
 agus tumiran	
-siti fatimah, hj.	
+siti fatimah hj	
 ali gufron	
 robi antono	
 sugeng hariyono	
@@ -3098,12 +3098,12 @@ suprapto
 wagisah	
 luluk ismiati	
 siti mukayah	
-m. ngafirohman	
+m ngafirohman	
 ilmi rizky amilda	
 jumadi	
 marimin	
 pariyam	
-m. tholib	
+m tholib	
 nur hasanah	
 trubus	
 indra proyoga	
@@ -3121,7 +3121,7 @@ suyati
 sujarni	
 ulfatun nikmah	
 ahmad arifin saputra	
-areza lailatul f.	
+areza lailatul f	
 tatik wahyuni	
 supardi	
 mahmud abdillah	
@@ -3162,7 +3162,7 @@ miskan
 nogroho wiyiono	
 soinah	
 winarsih	
-moh. tachrir	
+moh tachrir	
 jemiran	
 hartuni	
 resma sagita dewi	
@@ -3178,7 +3178,7 @@ semi
 sanimin	
 saminah	
 ahmad buwono	
-moh. arifin	
+moh arifin	
 purwati	
 sariyono	
 katemi	
@@ -3203,7 +3203,7 @@ subandi
 agus waluyo	
 misinah	
 mahfud faisol	
-so'im	
+soim	
 martik	
 lutfi nurkhofifah	
 siti lailia azizi	
@@ -3294,7 +3294,7 @@ agus topan
 paini	
 yese martha afinda	
 paeno	
-moh. rokim	
+moh rokim	
 misiyem	
 sri wahyuni	
 matkusenan	
@@ -3310,7 +3310,7 @@ suprihatin
 wagimin	
 subani	
 imam bahrudin	
-m. agung furkoni	
+m agung furkoni	
 soenah	
 lailaatul rahma dania	
 tri jayanti	
@@ -3381,9 +3381,9 @@ riko susanto
 kamari	
 kateni	
 kateno	
-adi.liswanto	
+adiliswanto	
 rupinah	
-moch. erix ardyansyah	
+moch erix ardyansyah	
 iin tarlina	
 budiono	
 paidianto	
@@ -3405,7 +3405,7 @@ dwi wahyu ningsih
 eko susanto	
 nanang agus santoso	
 budiono	
-m. rifai	
+m rifai	
 kartika	
 tentrem rahayu	
 suliyanto	
@@ -3441,7 +3441,7 @@ supani
 ahmad rofi ramadhan	
 anik muniroh	
 muklisin	
-m. kaelani	
+m kaelani	
 sunawan	
 ferry angga kurniawan	
 tri wahyuni	
@@ -3499,7 +3499,7 @@ dwi astutik
 nurhadi	
 hariyanto	
 oktaviana elya	
-nur a'imah	
+nur aimah	
 mad bakir	
 sanamu	
 susinta	
@@ -3511,7 +3511,7 @@ kismi marini
 ivel tomyas swankgurish	
 tri harti winarni	
 yanto	
-m. daroji h.	
+m daroji h	
 sumini	
 budi hartono	
 vrendy amriansyah	
@@ -3521,17 +3521,17 @@ titik agustin
 nanang santoso	
 ajeng purbaningrum	
 tiessa rinjani	
-m. febrian mashudi	
+m febrian mashudi	
 untung turmudi	
-saudah hj.	
-sari s.	
+saudah hj	
+sari s	
 jaman	
 siti rokayah	
 cintiya retno mulyani	
 zahrima fitqiaturrosyidah	
 dewi riyadti	
 budi mulyono	
-a. irfan e	
+a irfan e	
 aldi santoso	
 ida	
 purnomo	
@@ -3554,7 +3554,7 @@ endang
 abdul rohim	
 ahmad sodin	
 rosyid irawan	
-m. qosim	
+m qosim	
 holidi	
 sukat	
 satrio utomo	
@@ -3566,12 +3566,12 @@ dedy sudarsono
 suwito	
 supingah	
 tugiman	
-susiati h. yasin	
-moh. daroji h.	
+susiati h yasin	
+moh daroji h	
 putri aufa lestari	
 tiwi malik indarti	
 tia pramesti wulandari	
-m. ma'ruf	
+m maruf	
 yusuf	
 imam mahmudi	
 raid filla ardian	
@@ -3628,17 +3628,17 @@ ropiah
 eko wardoyo	
 mariyani	
 yohan kristianto	
-m. wahid jaelani	
+m wahid jaelani	
 srititik	
 edi sujiono	
 tri wigati	
 suryanto	
 supiyah	
 aken asna ramadhan	
-imam mu'arip	
+imam muarip	
 paini	
 katini	
-moh. nur arifin	
+moh nur arifin	
 asmoro bangun	
 mujito	
 dwi yulianto	
@@ -3673,7 +3673,7 @@ khotib hamdani
 mukti asih	
 fildan vale anggara	
 ida rosida	
-moh. zainuddin	
+moh zainuddin	
 sudarmi	
 sugiyati	
 mispan	
@@ -3682,7 +3682,7 @@ mujiono
 rikop susanto	
 barokah	
 budiono	
-dannish yusnani f.	
+dannish yusnani f	
 nanik winarti	
 yudi aman yusuf	
 shokibul hisyam	
@@ -3782,7 +3782,7 @@ imam sujarna
 hana lestari	
 sentot	
 katiyem	
-moh. yusup	
+moh yusup	
 mohamad iqbal fauzi	
 aisyah daimatul hasana	
 ita mafiyah	
@@ -3804,7 +3804,7 @@ iis dewi purnama
 khafid masrukan	
 marisa aurelia	
 mutingatun	
-ahmad reihan. a	
+ahmad reihan a	
 nurlia	
 ketut prasetyo	
 suparti	
@@ -3868,7 +3868,7 @@ mesikem
 sutrisno	
 dukut santoso	
 alias binjaffar	
-nur anis sa'adah	
+nur anis saadah	
 jumanan	
 buniyem	
 heni khoiriyah	
@@ -3880,7 +3880,7 @@ arif romdlon
 indriyani	
 ariani	
 abu supiyan	
-i'is sugiyanto	
+iis sugiyanto	
 sutikno	
 fenisri lestari	
 sumiati	
@@ -3906,8 +3906,8 @@ syaiful huda
 suraji	
 sundari	
 dasar wibowo	
-m. iksal firmansyah	
-m. maskuridwan	
+m iksal firmansyah	
+m maskuridwan	
 tumini	
 ahmad rokhim	
 murtini	
@@ -3920,7 +3920,7 @@ sriani
 srakah	
 busro	
 imroatus solikah	
-m. fatirul umami	
+m fatirul umami	
 rohana	
 suyono	
 mufidatul laili	
@@ -3946,7 +3946,7 @@ kamsidah
 haniah	
 surani	
 sandi	
-navi'ah	
+naviah	
 wiji	
 sherly oliviana	
 khumayah	
@@ -3961,7 +3961,7 @@ aurel leiwa nur zahwa
 dwi fatimah	
 khusnul khotimah	
 marsikan	
-m. pendy suhada	
+m pendy suhada	
 sudiayem	
 misnaji	
 nining	
@@ -4062,7 +4062,7 @@ fredy dharmawan nugroho
 david dharmawan nugroho	
 ko jin chung	
 budi andrias nugroho	
-m. syalevi hasemmian	
+m syalevi hasemmian	
 anis masruroh	
 andri susanto	
 kasimah	
@@ -4070,13 +4070,13 @@ sianah
 dasimah	
 nanda asmara putri	
 tegar pangestu	
-entas widiyanto. s	
+entas widiyanto s	
 nur hadiah	
 devin fernando	
 lilik nur indah sari	
 hermanto	
-nur sudjono,se	
-irna rofiqoh,	
+nur sudjonose	
+irna rofiqoh	
 carissa shafira nur ashar	
 h st ngaisah	
 edi susanto	
@@ -4123,9 +4123,9 @@ sutomo
 heru efendi	
 widiyaningsih	
 adly tegar pratama efendy	
-muh. arya nur pawana	
+muh arya nur pawana	
 agus winarti	
-muh. dwi fitriyanto	
+muh dwi fitriyanto	
 eni susilowati	
 safa putri herfi antika	
 fitriani	
@@ -4145,10 +4145,10 @@ subari
 sari	
 cherila azalia anmanda putri	
 erna mandaki	
-a'an susiyanto	
+aan susiyanto	
 ranaisya cinta putrinata	
-ratna meitarini, s.pd	
-sunarko hadi, st	
+ratna meitarini spd	
+sunarko hadi st	
 mujianto	
 subari	
 siti maryam	
@@ -4187,7 +4187,7 @@ amilatul fitriah
 erfan mashuri	
 insanul mutaqim	
 jamilah	
-imam syafi'i	
+imam syafii	
 revalina shelly cristiana	
 paini kristiana	
 sunardi	
@@ -4252,7 +4252,7 @@ nuke aprillia dewi
 sandi eka hutama mandala putra	
 nur septia putri madani	
 latiful kobir	
-m. saifuddin zuhri	
+m saifuddin zuhri	
 mohamad anam baidhowi	
 eko pamuji	
 umi hayati	
@@ -4286,7 +4286,7 @@ adi pamuji
 dian wahyu pribadi	
 titik wismawati	
 ali mufti	
-khafidatur rofi'ah	
+khafidatur rofiah	
 istiani	
 sayidatun muniroh	
 talkah	
@@ -4438,8 +4438,8 @@ sriani
 supriyanto	
 emi ismiati	
 inka nur indahsari	
-asroni, drs.	
-nur hidayati, spdi.	
+asroni drs	
+nur hidayati spdi	
 yulinda marti nuriyah as	
 deddy	
 dasiyem	
@@ -4491,8 +4491,8 @@ paimun
 dedy kurniawan	
 dariyati	
 denok mila wahyuni	
-besar h.	
-sumiati hj.	
+besar h	
+sumiati hj	
 bening esa sekar tresnani	
 jibril dwi puja utama dewantoro	
 wailik	
@@ -4515,7 +4515,7 @@ bahrul malik
 siti mukawanah	
 masruri	
 nasywa nuriana fitra	
-a. abrikul ilmi	
+a abrikul ilmi	
 iis sugianti	
 marwiyah	
 jumari	
@@ -4551,7 +4551,7 @@ slamet
 katimah	
 alfian tukidi	
 nur rohmiatin	
-i'is adelia	
+iis adelia	
 kusnadi	
 suwati	
 isnaini ramdani muzaka	
@@ -4568,7 +4568,7 @@ sukidi
 sugiono	
 ponirin	
 ginten	
-sapi'i	
+sapii	
 hawin	
 luluk	
 marsinah	
@@ -4606,7 +4606,7 @@ feri julia andika
 winarti	
 poniman	
 solikatun	
-fitri al'idah	
+fitri alidah	
 sumardi	
 trimo hartoyo	
 sigit hariyanto	
@@ -4733,16 +4733,16 @@ aragiel siti ulinnuha
 kavka reyhan wildan syah putra	
 ulvatul munawaroh	
 siran	
-m. rohmatul laili	
+m rohmatul laili	
 sriminatun	
-safina ad.	
+safina ad	
 seger santoso	
 puat anwar	
 musini	
-sabrina ad.	
-rahma dwi m.	
+sabrina ad	
+rahma dwi m	
 miswanto	
-eko pebri s.	
+eko pebri s	
 surani	
 rupini	
 senen	
@@ -4793,13 +4793,13 @@ sumirah
 sri kamidah	
 m mansur	
 m muklis	
-juariah.	
+juariah	
 slamet	
 mukini	
 ami solekah	
 marsidi	
 kimin	
-moh. yani	
+moh yani	
 wiji astutik	
 adi suyitno	
 alex ribowo	
@@ -4855,12 +4855,12 @@ paijem
 sajadi	
 heru stiawan	
 sutilam	
-m. afandi	
+m afandi	
 hilda lailatul rupiko	
 siti alqomah	
 munthoha	
 risalatul fitriani	
-layinatun nisa'	
+layinatun nisa	
 siti barokah	
 kasmini	
 edi sugianto	
@@ -4875,7 +4875,7 @@ endang kutsiyah
 isman khoirudin	
 alvina l hidayah	
 riyadi	
-m. aril fatkur rozy	
+m aril fatkur rozy	
 nurjanah	
 nila amaliya	
 musriati	
@@ -5040,7 +5040,7 @@ trisno wati
 camelia riva marta citraningrum	
 yudha ihza hendrawan	
 widyantoro basuki	
-setiyowati, amd keb.	
+setiyowati amd keb	
 lasiyem	
 paijo	
 edi purwanto	
@@ -5055,7 +5055,7 @@ andika dwi alfin
 sutikno	
 rizky alfian	
 martini	
-moh.sahid	
+mohsahid	
 siti fatimah	
 luluk ismawati	
 sumali	
@@ -5077,20 +5077,20 @@ misijan
 kamini	
 velisa awalia	
 komariyah	
-moh. nur santoso	
+moh nur santoso	
 anwar fauzi	
 ummu aimanalhabasiyah	
 ahmad faisal mubarok	
-ach. suwiji	
+ach suwiji	
 agus mahardiyanto	
 siti rosidah	
-moh. wahid jailani	
+moh wahid jailani	
 paiman	
 waginem	
 susiyono	
 sunyoto	
 riza husnita	
-muhamad imam safi'i	
+muhamad imam safii	
 marwiyatul kasanah	
 malikah	
 siyami	
@@ -5099,7 +5099,7 @@ ahmad suyudi
 siti mariatun	
 siti mutmainah	
 nur rohman shaleh	
-m. rizal cahaya	
+m rizal cahaya	
 nuroniyah	
 maja revalia cahaya	
 sugeng	
@@ -5136,7 +5136,7 @@ fredi santoso
 paitun	
 paisah	
 febri wulandari	
-tumirin drs.	
+tumirin drs	
 umi masrotin	
 roh fahmi mahardhika	
 puguh	
@@ -5280,7 +5280,7 @@ paerah
 nova nuriyanto	
 purwanto	
 sriatmiati	
-m. khoirul anam	
+m khoirul anam	
 wijiati	
 sahono	
 saminten	
@@ -5306,15 +5306,15 @@ devi kumalasari
 nanik widyaningsih	
 amad alimin	
 sugiyati	
-desi suhartin.ingsih	
-moh. jupri	
+desi suhartiningsih	
+moh jupri	
 suyitno	
 sumari	
 marsinem	
 suliyomo	
 rukimah	
 hariyanto	
-khusnul .khotimah	
+khusnul khotimah	
 rika umy mawadah	
 busroni	
 maslakah	
@@ -5322,9 +5322,9 @@ luvita nahdliyatul a
 ruslah	
 samsiyah	
 sulaeman	
-m.hadiqi mustofa	
-f. masruroh	
-m.fauzan daroini	
+mhadiqi mustofa	
+f masruroh	
+mfauzan daroini	
 sunari	
 siti nur farida	
 nado	
@@ -5338,7 +5338,7 @@ sodek
 atimah	
 paiman	
 rizal heriyana	
-siti mu'awanah	
+siti muawanah	
 kasminah	
 mariyatun	
 takrib	
@@ -5354,7 +5354,7 @@ harsis wanto
 sumiyati	
 lilik suryani	
 fajar arif setiawan	
-murtafi 'ah	
+murtafi ah	
 bambang santoso	
 agung suhendro	
 paini	
@@ -5366,7 +5366,7 @@ mujinah
 mukani	
 poniyati	
 mohamad ilyas	
-moh. shodiq	
+moh shodiq	
 bayu yulias arganata	
 nanik yuliyah	
 ardina febi wahyu ningtyas	
@@ -5433,7 +5433,7 @@ tumiatun
 miselan	
 afan torik rinaldi	
 ekak	
-moh. afandi	
+moh afandi	
 suyati	
 nur rizqi pratama	
 ali muhsin	
@@ -5471,7 +5471,7 @@ anik sulastri
 ika rizki prasetia	
 misno	
 nurkholis	
-siti suma'yah	
+siti sumayah	
 ida nursanti	
 ozora sava auvrillia	
 kristin agustian	
@@ -5512,14 +5512,14 @@ ponijan
 anita dewi rahayuningsih	
 miswati	
 boyadi	
-moh. rizqi efendi	
+moh rizqi efendi	
 umi syayidah	
 tumiadi	
 aspariyah	
 badriyatul hikmah	
 silma khamila	
 tri puji lestari	
-maulani drs.	
+maulani drs	
 mahbusyah mansur	
 muth mainah	
 dirgahayu marganingsih	
@@ -5531,8 +5531,8 @@ ahmadi
 gus purnomo	
 kaseni	
 katiyem	
-muhamad sa'bana	
-ali ma'ruf	
+muhamad sabana	
+ali maruf	
 umi nurul istiqomah	
 muhamad afrizaldi assyta	
 ali mustofa	
@@ -5550,12 +5550,12 @@ jemani
 kaseri	
 rupini	
 bambang wiyana	
-m. alwi muhaedhori	
+m alwi muhaedhori	
 filda nihayatul ulya	
 qudrotul iswahyuningsih	
 siti khoiriyatin	
-moh. mahmud	
-moh. shohiba ardan	
+moh mahmud	
+moh shohiba ardan	
 ulfatul khasanah	
 vivi aniatur rohmah	
 suharjono	
@@ -5575,7 +5575,7 @@ kuning
 suwito	
 kalimah	
 jamiatur rohmi	
-elsa sentananing wahyurist.i	
+elsa sentananing wahyuristi	
 eko wibisono	
 saiman	
 widianto	
@@ -5590,10 +5590,10 @@ gustiar aldi biantoro
 lilik sulastri	
 shinta nike astrinia	
 juari	
-y. dendi dwi p.	
+y dendi dwi p	
 ponisih	
-b.p. verry h.	
-js. anastasia tri h.	
+bp verry h	
+js anastasia tri h	
 sutrisno	
 suleman	
 mesiyem	
@@ -5653,7 +5653,7 @@ suyani harianto
 wakinem	
 wawan dwi karnoto	
 siti imaroh	
-moh. genta reka saputra	
+moh genta reka saputra	
 moharip	
 sri rahayu	
 zhaky nur wahyudistira	
@@ -5679,7 +5679,7 @@ sukar
 hermanto	
 ponisri	
 mohamad jaini	
-m. ma'ruf ismail	
+m maruf ismail	
 rusmiati	
 istikomah	
 untung	
@@ -5693,7 +5693,7 @@ suheri
 sugiyem	
 suratemi	
 ponisri	
-ya'adin rahmad	
+yaadin rahmad	
 imam sujono	
 mohamad gus salim	
 mujirin	
@@ -5712,7 +5712,7 @@ edit primana
 murti	
 sulton habibi	
 jamaludin	
-moh. syahrul mubarok	
+moh syahrul mubarok	
 siti ngaisah	
 sukadi	
 suratemi	
@@ -5722,8 +5722,8 @@ sumiati
 sutego	
 hadi purwanto	
 hariyono	
-m. nur woko	
-putra.bagus wibowo	
+m nur woko	
+putrabagus wibowo	
 aning mustikowati	
 miskat	
 tri ali mudhofir	
@@ -5778,8 +5778,8 @@ saipul anas
 innamah	
 siti andaritul masruroh	
 nur lutfiah	
-suma'un	
-moh. abdul rouf	
+sumaun	
+moh abdul rouf	
 winarsih	
 wahyu arista	
 ahmad fahrudi setiawan	
@@ -5790,38 +5790,38 @@ ali mustofa
 kustini	
 adinda thalia salsabila	
 paiman	
-m. rois nizam	
-m. anifan ashar	
-latifah musya'adah	
+m rois nizam	
+m anifan ashar	
+latifah musyaadah	
 mohammad fuad hasan	
 sujiman	
 wili purwanto	
 zuli sasmito	
 sari	
 erwanto	
-st. maryam	
+st maryam	
 mujiyanto	
 harianto	
 suyati	
 kurmen	
 saerah	
 jemirin	
-nurijan.	
+nurijan	
 karni	
 paidah	
 hasyim	
 jemirah	
 moh sholeh	
 mat thoyib	
-moh. irfan hadda'	
-moh. fikri al ali	
+moh irfan hadda	
+moh fikri al ali	
 siti aisyah	
 bahroni	
 siti fatimah	
 azizah	
 lajim	
 afifur rohman	
-moh. sukron makmun.	
+moh sukron makmun	
 sumiyah	
 slamet gunadi	
 ahmad wafa alfarobi	
@@ -5831,11 +5831,11 @@ ali mustofa
 siti aminah	
 nanik fauziyati	
 nangim natulmuflikah	
-moh. mahrus efendi	
+moh mahrus efendi	
 imam syafii	
 surti	
 umar said	
-moh. imanudin	
+moh imanudin	
 zahrotul fitriah	
 fatkhul kusaini	
 senen	
@@ -5852,7 +5852,7 @@ siumiyati
 renny aryanti	
 suwarni	
 somat	
-lukman jafar ma'ruf	
+lukman jafar maruf	
 siti maisaroh	
 paimun	
 yuliana	
@@ -5924,7 +5924,7 @@ syaiful rohman
 purwati	
 nurudin	
 dukut	
-moh. sholikin	
+moh sholikin	
 boinem	
 rebo	
 sarni	
@@ -5956,9 +5956,9 @@ widprti
 silvi ayu mahmudah	
 triamika widiaturdhmah	
 suwardi	
-nur a'imah	
+nur aimah	
 pamuji	
-moh. syafi'i	
+moh syafii	
 murtapiah	
 sujut	
 sudarmanto	
@@ -5984,7 +5984,7 @@ asta nail
 heru kristanto	
 jaiman	
 jarmi	
-indika n. fitriani	
+indika n fitriani	
 tri is ernawati	
 mulyono	
 mariyem	
@@ -5996,7 +5996,7 @@ samsul hadi
 siti fatimah	
 tri rizqi fauziyah	
 febrianti rukmana	
-moh.ilyas udin	
+mohilyas udin	
 katini	
 robingah	
 ahmad soderi	
@@ -6029,7 +6029,7 @@ nyoman
 paini	
 baidlowi	
 siti bariroh	
-m. hur. riffai	
+m hur riffai	
 afi datul khasanah	
 nur hadi marno	
 ahadiyah erna	
@@ -6038,12 +6038,12 @@ alfajri ula ashfarina
 miananto	
 ari wibowo	
 muntamah	
-mahmudi, sag.	
-siti farokah, spd.	
+mahmudi sag	
+siti farokah spd	
 fina alfi farihah	
 naila lutfa karima	
-nur hadi h.	
-rumini hj.	
+nur hadi h	
+rumini hj	
 tukirin	
 semi	
 sakar	
@@ -6087,7 +6087,7 @@ purnomo
 yamini	
 sutris	
 sarinem	
-suja'i	
+sujai	
 katiyem	
 sugito	
 arya fernanda aprillio	
@@ -6128,7 +6128,7 @@ mustofa
 basori	
 farida	
 ahmad fahril ardiansyah	
-zulfi nasirotul 'uma	
+zulfi nasirotul uma	
 sugito	
 pra stio	
 asari	
@@ -6137,8 +6137,8 @@ sehati
 abdul munib	
 kholil	
 devi ratna sari	
-moh. yasni	
-ahmad za'im syaifulloh	
+moh yasni	
+ahmad zaim syaifulloh	
 isriyah	
 mohammad rizan hadziki	
 tulus	
@@ -6147,7 +6147,7 @@ abdul wahid
 imam syafawi	
 siti muarofah	
 faisal akbar rizqi	
-ika novia astriana.	
+ika novia astriana	
 musani	
 sri mitayani	
 nihayatul wafiroh	
@@ -6159,7 +6159,7 @@ sukirno
 siti asiyan	
 zaki dwi prayoga	
 welas	
-jamari.	
+jamari	
 indah purwati	
 sindi puja anggraini	
 suparno	
@@ -6268,16 +6268,16 @@ sakiman
 gemi	
 sevilla nor rohmah	
 miswan	
-ajib al mas'ud	
+ajib al masud	
 mujayatun	
 angga rizal dwi saputra	
 dwi wandoyo trisno putro	
 sri hidayati	
 anggi nissa dwi pramita	
 yoda rahmad mahendra	
-noer cholis,	
+noer cholis	
 kiki nurmasanti	
-sri atin,	
+sri atin	
 suraji habiba	
 rudi hartono	
 ely ernawati	
@@ -6311,9 +6311,9 @@ sutitik
 lasiyem	
 mahendra dito laksono	
 riyanto	
-m.tohir	
+mtohir	
 nita yuliana	
-ahlul. fahrijal	
+ahlul fahrijal	
 endang subati	
 nur atim afandi	
 kadim	
@@ -6328,9 +6328,9 @@ niken tri lestari
 saiful bahri	
 trisno mami	
 suyono	
-elfi ni'amah	
+elfi niamah	
 yuyun sriwahyuni	
-moh. yusuf abdul hakim	
+moh yusuf abdul hakim	
 kholifatuz zulfa nur azizah	
 hedi kustiawan	
 heriyanto	
@@ -6341,7 +6341,7 @@ satir
 ponijah	
 rio hanfa saputra	
 nur hanifan	
-beben.hanifan	
+bebenhanifan	
 srinatun	
 tuminem	
 yayang ergananta	
@@ -6355,7 +6355,7 @@ sugiono
 sunarsih	
 meri triutami	
 yayuk sri wilujeng	
-andreas gian purwoko, se	
+andreas gian purwoko se	
 tugiman	
 savuan	
 mesiyah	
@@ -6484,7 +6484,7 @@ wiwin indrawati
 yusi hendrawanto	
 dimas angger s	
 beti	
-kharisma w.	
+kharisma w	
 sugiyati	
 cantika danuarti	
 ibnu cholis	
@@ -6498,7 +6498,7 @@ giyem
 poniti	
 antin ekana dewi	
 purwanto	
-riyanah endang w.	
+riyanah endang w	
 rega mekello pradita	
 trimanto	
 suharti	
@@ -6525,7 +6525,7 @@ mujinem
 anis irawati	
 ilham wahyu rejeki	
 nur samsi	
-m. saiful ambyah	
+m saiful ambyah	
 mardiyah	
 jumadi	
 ahmad arifin	
@@ -6603,7 +6603,7 @@ paimin
 suminen	
 sirin	
 misiatun	
-fery adre f.	
+fery adre f	
 amanda frida	
 lia rusiana dewi	
 ponidi	
@@ -6704,16 +6704,16 @@ imam suhadi
 taufik firmansah	
 dyan ika resty	
 tarwiyah	
-m. nurhadi	
-fathul huda s.	
+m nurhadi	
+fathul huda s	
 sri tutik	
 nafiatul masruroh	
-ni'matul istiqomah	
+nimatul istiqomah	
 yos sunaryo	
 vicky syeftyan ardiansyah	
 supiyati	
 regine stia wardhiana	
-m. alfi mubarok	
+m alfi mubarok	
 musabi	
 riyani	
 jaini	
@@ -6880,7 +6880,7 @@ heru
 sringatin	
 ali munassikin	
 wati setyo rini	
-moh. amar ma'ruf	
+moh amar maruf	
 ica adetiya oktaviani	
 munir	
 m munthohar	
@@ -6896,8 +6896,8 @@ maratus solikah hj
 ali mansur	
 muhammad syaikhoni aziz	
 siti nuriyah	
-m. wahib ms	
-sri hasanah,hj	
+m wahib ms	
+sri hasanahhj	
 bahrudin	
 supinah	
 hendra	
@@ -6925,7 +6925,7 @@ suyono
 jumiatun	
 ali muhsin	
 supiyah	
-m. masyhud ali	
+m masyhud ali	
 ibnu malik	
 mahmudah	
 seno	
@@ -7081,12 +7081,12 @@ takwin
 hartini	
 lela rifki anita	
 ahmad adib fadilah	
-binti ma'rifatun	
+binti marifatun	
 sulaiman	
 saironi	
 roland yoswidy	
 sayem	
-moh. aldian saputra	
+moh aldian saputra	
 katemi	
 tuminah	
 tolabi	
@@ -7107,7 +7107,7 @@ eko yulianto
 fitria	
 dewi asiah	
 ali muthohar	
-amalia nuris syafa'ah	
+amalia nuris syafaah	
 siti sholikhah	
 ahmad nur izza wafa	
 warsito	
@@ -7166,7 +7166,7 @@ pariyem
 parmi	
 rubiyem h	
 ahmat tohari	
-suryanto h.	
+suryanto h	
 febbyola catur samudra	
 doni agustan ar	
 patonah	
@@ -7187,7 +7187,7 @@ nanik dwi wijayanti
 mustarom	
 yamini	
 aprilia ramayani	
-marzuki, sag	
+marzuki sag	
 kharisma bintang wahyu r	
 rizka agung setiarahman	
 sunartik	
@@ -7196,7 +7196,7 @@ diah ayu mega nurrohmah
 wiji	
 insiyah	
 poniyem	
-imam mu'aripul anam	
+imam muaripul anam	
 aulia aisyah	
 alfiana anurrohmah	
 nanik widiyawati	
@@ -7253,10 +7253,10 @@ sumiranto
 waviatul agustin	
 sukarti	
 arlin ikhsan khadori	
-sukaji.	
+sukaji	
 kharisma dewi	
 parmi	
-farid. h	
+farid h	
 gatot supranyoto	
 tri suseno prasetiyo	
 nur hayati	
@@ -7357,7 +7357,7 @@ muhlisin
 dio sinar ardian wijaya	
 siti rojiyah anne	
 emi winarti	
-m.revan sinar abdilah	
+mrevan sinar abdilah	
 nur hasim h	
 jarol bawani	
 ali mahsun	
@@ -7413,7 +7413,7 @@ jerry khomarudin
 hariyanto	
 ilham widodo	
 sukarti	
-wagiran.	
+wagiran	
 srinatun	
 sutrisno	
 legiyem	
@@ -7426,7 +7426,7 @@ ayu mirta wardani
 sugeng wardoyo	
 rubiah	
 sukamto	
-m. rendy elvaru	
+m rendy elvaru	
 andika prastyo	
 yuni aisah	
 kharehza oktavia	
@@ -7434,7 +7434,7 @@ mohamad rendi agis pradana
 dedi gunda aryus wantoro	
 siti mujayanah	
 sukirno	
-m. agus santoso	
+m agus santoso	
 heruanto	
 mustilah	
 didy gunda ariyus wantoro	
@@ -7489,7 +7489,7 @@ didik agung triwahyudi
 katsiyah	
 alivi choiri sefiani	
 suyatno	
-faridatus sya'adzah	
+faridatus syaadzah	
 gitri	
 ahmad nur efendi	
 katiman suhadi	
@@ -7543,7 +7543,7 @@ ponisri
 ika deviana	
 sugianto	
 sukini	
-julia nadia putri.	
+julia nadia putri	
 sumarlan	
 imam muhtar	
 setiowati	
@@ -7564,7 +7564,7 @@ anik agustina
 sawiji	
 siswoto	
 miftakul huda	
-ani l.	
+ani l	
 ayu dwianggraini	
 marsam	
 ridwan	
@@ -7622,9 +7622,9 @@ puput andamsari
 qodir	
 siti muntamah	
 moh abdul wahid	
-zaenuddin drs.	
+zaenuddin drs	
 anisatul widad zaenur	
-nurul hamidah, spd.i	
+nurul hamidah spdi	
 gimin	
 dwi hadi prasetyo	
 tentrem	
@@ -7654,7 +7654,7 @@ eka wahyu setyaningsih
 matsodin	
 siti kolifah	
 algi maulana	
-maulid '	
+maulid 	
 salim	
 kamidiyah	
 muslikhah	
@@ -7717,7 +7717,7 @@ febri
 samini	
 welas	
 lukman	
-poni, hj.	
+poni hj	
 sal sabela	
 istiqomah	
 muslihah	
@@ -7819,7 +7819,7 @@ edy sutrisno
 titin setyorini	
 caca erina syahrani	
 cici akmalia	
-mad. solikin	
+mad solikin	
 sutami	
 ulyatun nikmah	
 tika	
@@ -7853,14 +7853,14 @@ rizky wulan indryani
 jarot sukamto	
 siti badriyah	
 nur kolik	
-m. farit kusaini	
+m farit kusaini	
 amin sugiat mika	
 sudarsih	
 rahmat yulianto	
 sanun	
 siti kalimah	
 agustinus suyoto	
-partini, s.pd.	
+partini spd	
 satimin	
 kariono	
 juwanah	
@@ -7895,7 +7895,7 @@ ansori
 misinah	
 sundari	
 sumini	
-halimtus sa'diyah	
+halimtus sadiyah	
 agus budi irawan	
 fendi ari sandi	
 paidi	
@@ -7905,9 +7905,9 @@ slamet
 agus susianto	
 mutinah	
 umi andayani	
-imam rofi'i	
+imam rofii	
 ali muntaha	
-fathal mu'in	
+fathal muin	
 misidi	
 luki andriyan	
 jam sringah	
@@ -8083,7 +8083,7 @@ erna agustin
 tukimah	
 reni maitasari	
 jarno	
-angga wahyu.di	
+angga wahyudi	
 tukiman	
 watini	
 meseran	
@@ -8096,7 +8096,7 @@ iswahyudi
 katini	
 hariyanto	
 mohamad syaiful anwar	
-m.syahrul munir	
+msyahrul munir	
 sholihatul mundiroh	
 suryani	
 rudi pradana putra	
@@ -8149,7 +8149,7 @@ yusak indra cahyono
 rakhel yuniar lestari	
 thomas tjahjono	
 elisabeth sumiarsih	
-ed.i kusnanto	
+edi kusnanto	
 riris yumiati	
 juwari	
 badilah	
@@ -8158,10 +8158,10 @@ anik wijayanti
 kusnan	
 ngaisah	
 khoirun nikmah	
-moh. komari	
-moh. ainur zaen	
+moh komari	
+moh ainur zaen	
 winarsih	
-moh. koirul anwar	
+moh koirul anwar	
 siti mahmudah	
 ghofur sungkono	
 leony putri koiruniso	
@@ -8177,12 +8177,12 @@ aisyah jimmy
 katinem	
 ponisah	
 sony harsono	
-moh. guntur suryo guridno	
+moh guntur suryo guridno	
 eni suparmi	
 kholilah indah guridno	
 ali maksum	
 lasmini	
-triana firdatus.s	
+triana firdatuss	
 mrakeh	
 jamitun	
 sugito	
@@ -8234,11 +8234,11 @@ siti masripah
 mudasir	
 saeroji	
 pri hariyanto	
-m. toil makrus	
-m. isroi	
+m toil makrus	
+m isroi	
 robaniyah	
 erfan mashuri	
-imam syafi'i	
+imam syafii	
 lukyto	
 insanul muttaqim	
 jamilatun	
@@ -8249,16 +8249,16 @@ ngari
 ahmad hanafi	
 ahmad fathoni	
 siti maimunah	
-ali mahrus h.	
+ali mahrus h	
 nahlatun	
 nabila amalia	
 syaiful anam	
-m. khoirul muttaqin	
-m. nurudin	
+m khoirul muttaqin	
+m nurudin	
 rukaini	
 ahmad faizin	
 imroatun nafiah	
-m. naimul huda	
+m naimul huda	
 mingun	
 katini	
 slamet gunadi	
@@ -8270,8 +8270,8 @@ heru wibowo
 suminah	
 sawal	
 tina anggraini	
-moh. bahrul rohim	
-m.muhid	
+moh bahrul rohim	
+mmuhid	
 astutik	
 moh mahruf efendi	
 puryami	
@@ -8284,7 +8284,7 @@ solekhah
 asfa roziqin	
 nur wahid	
 siti khodijah	
-ahmad mujahidin, s.ag.	
+ahmad mujahidin sag	
 mujahid yusuf abdul aziz	
 ardi sadad faturrohman	
 eka anita wati	
@@ -8316,7 +8316,7 @@ marsudi
 siti samsiyah	
 tasemi	
 eko wahyudi	
-quriatul a'yunik	
+quriatul ayunik	
 yani sujono	
 widi hermanto	
 ahmad salsabila	
@@ -8332,10 +8332,10 @@ sumarmi
 zeni puji astutik	
 beti anggrainingsih	
 asnan	
-isro' fadli	
-anshor asyhari, spd.i	
+isro fadli	
+anshor asyhari spdi	
 muhammad ghozi asyhari	
-siti aidatul khasanah, a.ma.pd.	
+siti aidatul khasanah amapd	
 ali mahsun	
 fenti yuniar astutik	
 ardhea intan cahyani	
@@ -8360,8 +8360,8 @@ pita
 hariono	
 siti mardiyah	
 linda ani fatimah	
-m. risqi fadilah	
-moh. agus ta'in	
+m risqi fadilah	
+moh agus tain	
 untung	
 mulikati	
 suyitno	
@@ -8428,7 +8428,7 @@ rubinem
 kasiati	
 lamiran	
 marsini	
-siti mar'atut toyibah	
+siti maratut toyibah	
 rensa ari sandi	
 tumiren	
 darmi	
@@ -8442,7 +8442,7 @@ andik setyawan
 jaenap	
 erma yuliyani	
 chudori	
-farid rohmad ma'sum	
+farid rohmad masum	
 anang sutra ilham	
 kinik indriani	
 dina	
@@ -8476,11 +8476,11 @@ wahyudi
 lukman	
 ahmat johari	
 fatkur rohman	
-m. amin mustofa	
-m. nasihuddin	
+m amin mustofa	
+m nasihuddin	
 waridatul chasanah	
 riyadin nisai kamila	
-moh. balya khoirul muna	
+moh balya khoirul muna	
 kunni naili nurossiam	
 sikem	
 katiyem	
@@ -8502,11 +8502,11 @@ marmi
 nurzaini	
 m sadid udin	
 masruroh	
-wilda.umam.i	
+wildaumami	
 rahmah masruroh	
 erin nailus syifa kumala	
 imam daroini	
-shela indana zulfa azzahro'	
+shela indana zulfa azzahro	
 moh nurrohim	
 mohammad badrul umam	
 binti amanah	
@@ -8529,14 +8529,14 @@ siti romelah
 nurul alfia susanti	
 joko wiyono	
 artika sari romadhani	
-masri'in	
+masriin	
 maulana firman syah	
 sahar	
 sumarmi	
-asma'i	
-moh. nur ikhsan	
-moh. imron muzaki	
-moh. fahmi fadilah	
+asmai	
+moh nur ikhsan	
+moh imron muzaki	
+moh fahmi fadilah	
 siti nur hanifah	
 ribut rehati	
 sarip	
@@ -8558,7 +8558,7 @@ anis nurin nahari
 tukirah	
 mugiono	
 ahmad ali	
-azizah listari hj.	
+azizah listari hj	
 ruli trihati	
 dwi hartantin	
 santo	
@@ -8608,7 +8608,7 @@ paini
 diast ismia rahmawati	
 mujianto	
 lismiati	
-m. mustaqim	
+m mustaqim	
 tumiran	
 deni prastiyo	
 tutik	
@@ -8621,14 +8621,14 @@ nia damayanti
 sukari	
 sujiati	
 eko septia budiawan	
-sapi'i	
+sapii	
 rambat	
 tia anggi safitri	
 poniran	
 yoki okta dinanto	
 suwarni	
 supardi	
-moh. andi firmansyah	
+moh andi firmansyah	
 sriwati	
 friska anjaswari	
 agus prayitno	
@@ -8638,7 +8638,7 @@ supriadi
 rudi prasetyo	
 miskati	
 sugianto	
-moch.ryan setiawan	
+mochryan setiawan	
 pujowati	
 ponirin	
 winarno	
@@ -8658,26 +8658,26 @@ yatno
 supani	
 didik santoso	
 supriyadi	
-'uha'ad rohim asymawi	
+uhaad rohim asymawi	
 mutmainatul hasanah	
 riska maulida tinafisa	
 katam	
 sumari	
-t.iyem	
+tiyem	
 andik	
 nur khasanah	
 ngarip syamsul alifin	
 mufidatul zulfa	
-m.arif nursamsu	
+marif nursamsu	
 sumini	
 yunita suci amalia	
 warijo	
 rafa nazuan janna	
 ulfatul khoiriyah	
-a.mubasir	
+amubasir	
 fawait	
 kasbi	
-hidayah.	
+hidayah	
 robin	
 turadi	
 nasiatun	
@@ -8686,11 +8686,11 @@ yolanda wika adikusuma
 sri puji astutik	
 shintha amalia kusuma wardani	
 harun	
-siti nurfar.ida	
+siti nurfarida	
 claudia cahya ramadhani	
 juliono	
 ningwa endang lestari	
-ach. kaini	
+ach kaini	
 aris pambudi	
 indra setiawan	
 hanum pramudita	
@@ -8705,7 +8705,7 @@ verisa gitaresmi dyah sasikarani
 diva andina dyah pusparani	
 bambang nurwanto	
 luluk tyas budi utami	
-mar'ah	
+marah	
 fara pramuditya	
 supriyadi	
 dewi islamiyati	
@@ -8721,15 +8721,15 @@ sumadi
 yuniariati	
 naychilla andara kunni habibah	
 legiyem	
-moh. dhani ramadhan	
+moh dhani ramadhan	
 parni	
 yuda prastyo	
 jaetun	
 poniran gandu	
 insiyah	
 sutikno	
-dewi febi.a	
-m. tedy ariadi pane	
+dewi febia	
+m tedy ariadi pane	
 umi masruroh	
 yudhianto	
 yoki yudasena	
@@ -8759,7 +8759,7 @@ zesi antika
 dwi andoko	
 ari anggara	
 murtini	
-eka fitria ayu. a	
+eka fitria ayu a	
 gipan	
 tumini	
 mujiati	
@@ -8797,7 +8797,7 @@ arisca yulia
 muhammad sutar	
 sujoko	
 suminah	
-firgi meisya. l	
+firgi meisya l	
 anik agustin	
 paini	
 arif prayoga	
@@ -8822,10 +8822,10 @@ raminten
 ida riani	
 wagino	
 nadia aini atu zahro	
-moh. lukman hakim	
+moh lukman hakim	
 siti nurul hidayah	
 siti nur khasanah	
-siti zazilatul rohmah.	
+siti zazilatul rohmah	
 tasemin	
 tasemi	
 basiran	
@@ -8837,7 +8837,7 @@ ponisri
 mukri	
 slamet	
 malik	
-rani l.	
+rani l	
 riadi	
 sri rahayu	
 eko suprayitno	
@@ -8850,7 +8850,7 @@ susiatun
 semio adi saputro	
 rista dwi firlia	
 ridho trio saputra	
-ma'sum	
+masum	
 deny wahyu hidayat	
 maryatun	
 bayu nur ikhsan	
@@ -8859,11 +8859,11 @@ rohana tria yulita
 muhamad suwaji	
 muhamad hilmi nurullah	
 aan fahmi ulum	
-siti musri'ah	
+siti musriah	
 sujinah	
 kikit romadhon	
 cerry arnanda	
-l. lilia andriyani	
+l lilia andriyani	
 imam jajuli	
 melan argarini	
 tya ardatha	
@@ -8874,8 +8874,8 @@ ana yuning tias
 suratman	
 faridatuz zahrok	
 sri utami	
-i'tina fariha zahrok	
-moh. farhan azzuhri	
+itina fariha zahrok	
+moh farhan azzuhri	
 sukri	
 ali imron wahyudi	
 rosidah	
@@ -8940,7 +8940,7 @@ sukemi
 imam bukhori	
 saiful ulum	
 siti fatimah	
-mariatus sa'adah	
+mariatus saadah	
 mohammad mansur	
 supini	
 kaswan	
@@ -8961,7 +8961,7 @@ songeb
 sarijah	
 irvan harianto	
 novianti dwi lestari	
-st. sholekah	
+st sholekah	
 suryadi	
 fifin ratanasari	
 edi setiawan	
@@ -8979,7 +8979,7 @@ anina fadilutuk m
 sriami	
 ismiatun	
 supian	
-moh. anas musakib	
+moh anas musakib	
 siti rofiah	
 nurul anwariyah	
 emi	
@@ -9030,9 +9030,9 @@ betty susiati
 bedjo	
 suhartini	
 sutrisno	
-moh. gusti tris anggoro	
+moh gusti tris anggoro	
 marsiti	
-ajeng pramesti r. p.	
+ajeng pramesti r p	
 paino	
 samini	
 siska firdiana	
@@ -9074,7 +9074,7 @@ bety triyanti
 waseno	
 wasini	
 barokah rina jamilah	
-tatik rubiyanti raha.yu	
+tatik rubiyanti rahayu	
 alif fajariadin	
 nur khozin	
 royi nur ardian syah	
@@ -9086,7 +9086,7 @@ eko hadi sukoyo
 mahadika reo subekti	
 gigih rizal subekti	
 siti amisah	
-alysin, hp	
+alysin hp	
 tuminah	
 megawati liyaning tiyas	
 joko guritno	
@@ -9152,19 +9152,19 @@ sokirun
 eko purnomo	
 katmiatun	
 abdul rohim h	
-sukanti, hj.	
-h. abd kholik, spd.	
+sukanti hj	
+h abd kholik spd	
 rois al farisi	
 arfi ali syahbana	
-hj. suriyah	
+hj suriyah	
 islam arga kusumawati	
 muhroji	
 tri nihayati	
 aish fatimatu zahro	
-bastawi, a.ma.	
+bastawi ama	
 musatin	
 habebullah	
-st. fatimah	
+st fatimah	
 era vazira	
 salman alfarisi	
 rosita diana novianti	
@@ -9178,7 +9178,7 @@ sakri
 saini	
 moh giman	
 waniti	
-m. naris nur fatah	
+m naris nur fatah	
 amalia malfika	
 ponimin	
 eva putrianingsih	
@@ -9225,11 +9225,11 @@ bagus hadi saputra
 suratin	
 kasiran	
 misinah	
-andreas h.n	
+andreas hn	
 agustinus supratman	
 sri utami	
 sarinem	
-agustina elsa d. p.	
+agustina elsa d p	
 aminah	
 sugito	
 farid ningsih	
@@ -9238,7 +9238,7 @@ aldi alfarizi
 nurul f	
 putri istiqomah	
 dwy wulandari	
-m. andreas sutikno	
+m andreas sutikno	
 suparmi	
 jani	
 untung	
@@ -9290,8 +9290,8 @@ sri rahayu
 veronika	
 samsuri	
 armiasih	
-hasbiasri dea k. n.	
-moch. rizky eka k	
+hasbiasri dea k n	
+moch rizky eka k	
 joni anwar	
 joni efendi	
 warsono	
@@ -9307,7 +9307,7 @@ suroso
 lasminah	
 muhammad muhson	
 suratemi	
-m. alvin rohmatul azis	
+m alvin rohmatul azis	
 laili	
 tri muzayanti	
 susianto	
